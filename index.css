@@ -318,3 +318,9 @@ footer{
      margin-top: 150px;
 
 }
+
+
+#samplePaper{
+  display: flex;
+  justify-content: space-evenly;
+}
